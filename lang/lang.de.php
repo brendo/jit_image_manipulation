@@ -52,4 +52,6 @@
 		'Unsupported image type. Supported types: GIF, JPEG and PNG' => 
 		'Bildtyp nicht unterstützt. Unterstützte Typen: GIF, JPEG und PNG',
 
+		'Recipes' => 
+		'Rezepte',
 	);
